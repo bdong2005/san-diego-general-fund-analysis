@@ -1,0 +1,4 @@
+stat420_budget.db filter=lfs diff=lfs merge=lfs -text
+budget_operating_clean.csv filter=lfs diff=lfs merge=lfs -text
+actual_operating_clean.csv filter=lfs diff=lfs merge=lfs -text
+budget_reference_accounts_clean.csv filter=lfs diff=lfs merge=lfs -text
